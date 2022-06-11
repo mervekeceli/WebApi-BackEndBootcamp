@@ -22,9 +22,9 @@ update-database
 ## 📷 Screenshots
 
 <div style="display: flex; width: 1000px; justify-content: space-evenly;">
-  <img src="https://github.com/SuleAktas/BrandStore/blob/main/img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(42).png" width="400px;" alt=""/>
-  <img src="https://github.com/SuleAktas/BrandStore/blob/main/img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(43).png" width="400px;" alt=""/>
+  <img src="https://github.com/mervekeceli/WebApi-BackEndBootcamp/blob/master/img/1.PNG" width="400px;" alt=""/>
+  <img src="https://github.com/mervekeceli/WebApi-BackEndBootcamp/blob/master/img/2.PNG" width="400px;" alt=""/>
 </div>
 <div style="display: flex; width: 1000px; justify-content: space-evenly;">
-  <img src="https://github.com/SuleAktas/BrandStore/blob/main/img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(44).png" width="400px;" alt=""/>
+  <img src="https://github.com/mervekeceli/WebApi-BackEndBootcamp/blob/master/img/3.PNG" width="400px;" alt=""/>
 </div>
