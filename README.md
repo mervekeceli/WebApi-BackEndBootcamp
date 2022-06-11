@@ -1,10 +1,10 @@
 # ✏️ WebApi-BackEndBootcamp
 
-c# kullanarak web api oluşturuluyor ve crud işlemleri gerçekleştiriliyor. Get işlemleri için uygulamayı çalıştırabilirsiniz. Post ve Put işlemleri için postman arayüzününde çalıştırabilirsiniz.
+c# kullanarak Web Api projesi oluşturuyor ve Api için CRUD işlemleri gerçekleştiriliyor. Get işlemleri için uygulamayı çalıştırabilirsiniz. Post ve Put işlemleri için postman arayüzününde çalıştırabilirsiniz.
 
 ## ⚙️ Install
 
-Projeyi kendi bilgisayarınıza indirme linki
+Projeyi kendi bilgisayarınıza indirmek için: 
 ```
 https://github.com/mervekeceli/WebApi-BackEndBootcamp.git
 ```
@@ -27,9 +27,4 @@ update-database
 </div>
 <div style="display: flex; width: 1000px; justify-content: space-evenly;">
   <img src="https://github.com/SuleAktas/BrandStore/blob/main/img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(44).png" width="400px;" alt=""/>
-  <img src="https://github.com/SuleAktas/BrandStore/blob/main/img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(45).png" width="400px;" alt=""/>
-</div>
-<div style="display: flex; width: 1000px; justify-content: space-evenly;">
-  <img src="https://github.com/SuleAktas/BrandStore/blob/main/img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(58).png" width="400px;" alt=""/>
-  <img src="https://github.com/SuleAktas/BrandStore/blob/main/img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(59).png" width="400px;" alt=""/>
 </div>
